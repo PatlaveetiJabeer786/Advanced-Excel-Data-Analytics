@@ -8,7 +8,7 @@ Data analysis and interactive dashboards using Advanced Excel. Features a Road A
 This project analyzes road accident data for the years **2021 and 2022**. The goal was to identify patterns in accident severity, vehicle types, and road conditions to provide data-driven safety recommendations.
 
 ## 🖼️ Dashboard Preview
-![Road Accident Dashboard](Your_Excel_Screenshot_Name.jpg)
+![Road Accident Dashboard](Road_Accident_Dash_Board.png)
 
 ## 🛠️ Advanced Excel Skills Used
 * **Data Cleaning:** Used `TRIM`, `CLEAN`, and `IFERROR` to standardize messy accident records.
